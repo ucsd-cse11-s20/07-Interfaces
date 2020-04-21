@@ -16,7 +16,7 @@ https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture11.html
 
 Gradescope quiz (due by 10am day of next lecture, in this case 10am April 21):
 
-
+https://www.gradescope.com/courses/106159/assignments/463638
 
 Reminder to check the course web site for other deadlines:
 
